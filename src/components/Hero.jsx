@@ -8,7 +8,7 @@ const Hero = () => {
         <button
           type="button"
           className='black_btn'
-          // onClick={}
+          onClick={() => window.open('https://github.com/Saurabh-1SP/sumz')}
         >
           GitHub
         </button>
@@ -18,7 +18,7 @@ const Hero = () => {
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise Summaries
+        Simplify your reading with Sumz, an open-source article summarizer that transforms lengthy articles into clear and concise Summaries
       </h2>
     </header>
   )

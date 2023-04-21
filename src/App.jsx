@@ -1,4 +1,4 @@
-import {Hero,Demo} from './components'
+import {Hero,Main} from './components'
 import './App.css'
 
 const App = () => {
@@ -9,7 +9,7 @@ const App = () => {
       </div>
       <div className="app">
         <Hero/>
-        <Demo/>
+        <Main/>
       </div>
     </main>
   )

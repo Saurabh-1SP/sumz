@@ -1,7 +1,7 @@
 import Hero from './Hero.jsx'
-import Demo from './Demo.jsx'
+import Main from './Main.jsx'
 
 export {
     Hero,
-    Demo
+    Main
 }
